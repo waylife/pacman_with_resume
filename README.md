@@ -1,11 +1,11 @@
 # PacmanWithResume
-Too often ,I have think about, why not add Resumes to my blog, Why not? so I do this.  
-Forked from pacman, add resume layout support. [Demo](http://waylife.github.io/about/resume-en.html).    
-Just the set the layout attribute value to resume to use it.   
-If your get any questions, please tell me.   
+Many  times,I thinked about why not add Resumes to my blog. Why not? so I did this.  
+It forked from pacman, with resume layout support. [Demo](http://waylife.github.io/about/resume-en.html).    
+To use it, just the set the layout attribute value to resume.   
+If you have questions or suggestions, please tell me.   
 中文版可查看[此文](http://waylife.github.io/2015/01/02/add-resume-type-to-hexo-under-pacman-theme/)
 
-**Note**: Better not add resume md under _post folder, better add to about/resume.md, You can visit it with the url of http://yourwebsite.com/about/resume.html     
+**Note**: Better not add resume md files under _post folder, better add to about/resume.md, You can visit it with the url of http://yourwebsite.com/about/resume.html     
   
 An resume example 
 
@@ -38,7 +38,9 @@ layout: resume
  - Tools: Eclipse, Android Studio, Visual Studio, etc.
 
 ```
-Below is the pacman theme document 
+
+
+Below is the original pacman theme document 
 ---
 
 Pacman is a flat and responsive design theme for [Hexo](http://hexo.io).
